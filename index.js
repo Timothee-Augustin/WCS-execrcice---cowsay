@@ -1,6 +1,6 @@
 const myInfos = require('./information.js');
 
-console.log(myInfos())
+
 
 const cowsay = require("cowsay");
 
